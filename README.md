@@ -2,6 +2,12 @@
 This is my First 3D game for windows platform.I created this one just to complete the challange of my friends with the challange line as " Bro if u know how to create games, try making games similar to PUBJ ".
 It took me around 75+ hours to complete as a beginner.
 
+How to download game 4 steps:
+1.) Clone > Copy link
+2.) Type git clone https://github.com/Udhay-Brahmi/Player-Known.git
+3.) Player known_data > Unzip 7.zip.001,7.zip.002,7.zip.003 .
+4.) Click on zombie icon.
+
 
 ![Screenshot (83)](https://user-images.githubusercontent.com/72250606/96392415-9fb5cf80-11d9-11eb-86fe-56e52da3d55e.png)
 
