@@ -1,5 +1,5 @@
 # Player-Known
-This is my First 3D game for windows platform.I created this one in order to complete the challange from my friends with the challange line as " Bro if u know how to create games, try making games similar to PUBJ ".
+This is my First 3D game for windows platform.I created this one in order to complete the challange from my friends with the challange line as " Bro if u know how to create games, try making games similar to PUBG ".
 It took me around 75+ hours to complete as a beginner.
 
 How to download game 4 steps:
