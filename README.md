@@ -1,13 +1,21 @@
+
 # Player-Known
-This is my First 3D game for windows platform.I created this one in order to complete the challange from my friends with the challange line as " Bro if u know how to create games, try making games similar to PUBG ".
-It took me around 75+ hours to complete as a beginner.
 
-How to download game 4 steps:
-1.) Clone > Copy link
-2.) Type git clone https://github.com/Udhay-Brahmi/Player-Known.git
-3.) Player known_data > Unzip 7.zip.001,7.zip.002,7.zip.003 .
-4.) Click on zombie icon.
+This is my First 3D game for windows platform.I created this one in order to complete the challange from my friends with the challange line as " Bro if u know how to create games, try making games similar to PUBG ". It took me around 75+ hours to complete as a beginner.
+## Run Locally
 
+Clone the project
+
+```bash
+  git clone https://github.com/Udhay-Brahmi/Player-Known.git
+```
+
+Go to the project directory & double click on
+
+```bash
+  Player known.exe
+```
+## Screenshots
 
 ![Screenshot (83)](https://user-images.githubusercontent.com/72250606/96392415-9fb5cf80-11d9-11eb-86fe-56e52da3d55e.png)
 
@@ -26,4 +34,17 @@ How to download game 4 steps:
 ![Screenshot (85)](https://user-images.githubusercontent.com/72250606/96392491-e0ade400-11d9-11eb-9211-ef9a36f750b9.png)
 
 ![Screenshot (86)](https://user-images.githubusercontent.com/72250606/96392493-e3a8d480-11d9-11eb-9f07-698fd16f1d5b.png)
+
+
+## Demo video
+
+[Player-Known](https://www.youtube.com/watch?v=GIp7jkQfCuE&list=PL0JlkXkl7laZBaW4b_nConWVtlLrSG6Xb&index=3)
+ 
+## Author
+
+- [Udhay Brahmi](https://github.com/Udhay-Brahmi)
+
+## Support
+
+For support, email udhaybrahmi786@gmail.com or udhaybrahmi@gmail.com.
 
